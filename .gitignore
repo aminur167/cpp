@@ -1,0 +1,9 @@
+﻿# Compiled output
+*.exe
+*.o
+*.out
+*.obj
+
+# IDE
+.vscode/
+.cph/
